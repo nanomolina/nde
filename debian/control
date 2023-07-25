@@ -1,0 +1,11 @@
+Source: nde
+Section: misc
+Priority: optional
+Maintainer: Nano Molina <nanomolinacav@gmail.com>
+Build-Depends: debhelper (>= 9)
+
+Package: nde
+Architecture: all
+Depends: bash
+Description: A script to display a falling text animation in the terminal
+

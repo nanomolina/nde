@@ -1,0 +1,9 @@
+Package: nde
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Nano Molina <nanomolinacav@gmail.com>
+Installed-Size: 7
+Depends: bash
+Section: misc
+Priority: optional
+Description: A script to display a falling text animation in the terminal

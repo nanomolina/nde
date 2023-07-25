@@ -1,8 +1,8 @@
 class Nde < Formula
   desc "A script to display a falling text animation in the terminal of Nacidos del Error"
   homepage "https://github.com/nanomolina/nde"
-  url "https://github.com/nanomolina/nde/releases/download/v1.0.2/nde-v1.0.2.tar.gz"
-  sha256 "f73f7ae767b430b9d8e2a35805d94907100bd3d306bfcd29a3186e8073da0a42"
+  url "https://github.com/nanomolina/nde/releases/download/v1.0.3/nde-v1.0.3.tar.gz"
+  sha256 "13e8ad2a8a9aca6f7fb1194d0ca113f038393c71684749954aca811ac671ff4b"
 
   def install
     bin.install "nde" # Corrected path to the script file

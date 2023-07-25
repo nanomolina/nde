@@ -5,10 +5,10 @@ class Nde < Formula
   sha256 "dba339de2fa9c4693ec451065311fcc70d5f5c8217e9a6b1784088ef567feb79"
 
   def install
-    bin.install "nde.rb" # Replace "nde.rb" with the actual filename of your script
+    bin.install "scripts/nde" # Replace "nde.rb" with the actual filename of your script
   end
 
   test do
-    system "nde.rb --version" # Replace "--version" with the appropriate flag to show version information
+    system "nde --version" # Replace "--version" with the appropriate flag to show version information
   end
 end

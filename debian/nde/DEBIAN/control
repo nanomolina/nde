@@ -2,7 +2,7 @@ Package: nde
 Version: 1.0.0-1
 Architecture: all
 Maintainer: Nano Molina <nanomolinacav@gmail.com>
-Installed-Size: 7
+Installed-Size: 14
 Depends: bash
 Section: misc
 Priority: optional

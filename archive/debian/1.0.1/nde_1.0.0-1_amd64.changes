@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Mon, 25 Jul 2023 12:00:00 +0000
+Source: nde
+Binary: nde
+Architecture: all
+Version: 1.0.0-1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: Nano Molina <nanomolinacav@gmail.com>
+Changed-By: Nano Molina <nanomolinacav@gmail.com>
+Description:
+ nde        - A script to display a falling text animation in the terminal
+Changes:
+ nde (1.0.0-1) UNRELEASED; urgency=low
+ .
+   * Initial release.
+Checksums-Sha1:
+ 782b284a13904f922e2450503ce846dc4114068f 2024 nde_1.0.0-1_all.deb
+ f5357a5aaf422cdaa05d040f1a8a93d7eec06c0a 5634 nde_1.0.0-1_amd64.buildinfo
+Checksums-Sha256:
+ 4050975e0a7ed34c5a50ee859c258fd8883d48f7374952a718539a4d760c7521 2024 nde_1.0.0-1_all.deb
+ 1ccb9d75b2e9487dc493ed36c985e59067123d0cf228de5eb57920f360507814 5634 nde_1.0.0-1_amd64.buildinfo
+Files:
+ 89f3bcc5f834183d71c53c0cd972c56a 2024 misc optional nde_1.0.0-1_all.deb
+ 92c89815b6b3b404fc9923b6cd15c5d5 5634 misc optional nde_1.0.0-1_amd64.buildinfo

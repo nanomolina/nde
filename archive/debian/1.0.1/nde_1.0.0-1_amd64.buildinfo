@@ -4,14 +4,14 @@ Binary: nde
 Architecture: all
 Version: 1.0.0-1
 Checksums-Md5:
- 023efcddf4766e318ade5a842b2052d8 1068 nde_1.0.0-1_all.deb
+ 89f3bcc5f834183d71c53c0cd972c56a 2024 nde_1.0.0-1_all.deb
 Checksums-Sha1:
- f51e3730f5f3909cf07deed05e2b8acea7e52955 1068 nde_1.0.0-1_all.deb
+ 782b284a13904f922e2450503ce846dc4114068f 2024 nde_1.0.0-1_all.deb
 Checksums-Sha256:
- 37a08d11018f62e4bec5fce26a69b5adef27e56aba2968407e65bf5382f06aa0 1068 nde_1.0.0-1_all.deb
+ 4050975e0a7ed34c5a50ee859c258fd8883d48f7374952a718539a4d760c7521 2024 nde_1.0.0-1_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Tue, 25 Jul 2023 18:03:29 -0300
+Build-Date: Tue, 25 Jul 2023 19:00:26 -0300
 Installed-Build-Depends:
  autoconf (= 2.69-11),
  automake (= 1:1.15.1-3ubuntu2),

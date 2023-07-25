@@ -2,3 +2,10 @@
 
 %:
 	dh $@
+
+override_dh_auto_install:
+	# Create necessary directories in the package
+	mkdir -p debian/nde/usr/bin
+	# Copy the nde script to /usr/bin/nde
+	cp nde debian/nde/usr/bin/nde
+

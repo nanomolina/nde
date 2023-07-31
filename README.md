@@ -18,7 +18,7 @@ brew install nde
 nde
 ```
 
-# Linus/Debian
+# Linux/Debian
 To build a new .deb
 ``` bash
 dpkg-buildpackage -us -uc -b
